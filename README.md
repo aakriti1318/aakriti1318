@@ -1,8 +1,5 @@
-### Hi there 👋 I'm Aakriti
-<br>
-<br>
-
-- Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/"> Visit Here </a>
+### Hi there 👋 I'm Aakriti✨
+Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/">Visit Here</a>
 <br>
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/229/543/original/vector-young-indian-woman-as-female-developer-profession.jpg" alt="Girl in a jacket" width="300" height="300">

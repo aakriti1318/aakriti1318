@@ -10,7 +10,7 @@ Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfoli
 - 🔭 I’m Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
 - 🔭 I'm Education Outreach Scholar at <a href ="https://www.linkedin.com/company/girlscript-foundation/">GirlScript Foundation and YAY!-Celebrating Education.</a>;
 - 🔭 <a href="https://gssoc.girlscript.tech/">GSSOC'21</a>; 
-- 🌱 I’m currently pursuing my pre final year of Bachelor's degree in Information Technology at JIIT;
+- 🌱 I’m currently pursuing my pre final year of Bachelor's degree in Computer Science Engineering at JIIT;
 - 💬 Always available to learn new stuff;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aakritiaggarwal13/">LinkedIn</a>;
 - 😄 ✨Soul on fleek!✨;

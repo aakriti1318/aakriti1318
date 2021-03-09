@@ -16,3 +16,4 @@ Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfoli
 - 😄 ✨Soul on fleek!✨;
 - ⚡ My interests are with Cpp 🖥️, Data Science 📊, Space 🚀, etc..;
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)

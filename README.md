@@ -4,7 +4,6 @@ Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfoli
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/229/543/original/vector-young-indian-woman-as-female-developer-profession.jpg" alt="Girl in a jacket" width="300" height="300">
 <br>
-
 <h4>Here we go...:</h4>
 
 - 🔭 I’m Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
@@ -15,3 +14,5 @@ Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfoli
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aakritiaggarwal13/">LinkedIn</a>;
 - 😄 ✨Soul on fleek!✨;
 - ⚡ My interests are with Cpp 🖥️, Data Science 📊, Space 🚀, etc..;
+
+![](https://komarev.com/ghpvc/?username=aakriti1318&style=plastic)

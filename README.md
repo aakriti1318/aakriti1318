@@ -1,11 +1,12 @@
-# Hi there 👋 I'm Aakriti✨
-Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/">Visit Here</a>
+# HI THERE 👋
 <br>
-
-<img src="https://static.vecteezy.com/system/resources/previews/000/229/543/original/vector-young-indian-woman-as-female-developer-profession.jpg" alt="AKKU" width="300" height="300">
+<p align="center">   
+<img src="https://github.com/aakriti1318/aakriti1318/blob/main/Aakriti%20Aggarwal-logos_transparent.png" alt="AKKU" width="400" height="300">
+</p>
 <br>
 <h4>Here we go...:</h4>
 
+- 📫 Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/">Visit Here</a>
 - 🔭 I’m Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
 - 🔭 Have a look on my Research Paper: <a href="https://github.com/aakriti1318/isSwap">here</a>;
 - 🔭 <a href="https://gssoc.girlscript.tech/">GSSOC'21</a>  Open Source Contributor; 

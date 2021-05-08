@@ -1,9 +1,8 @@
-# HI THERE 👋
+<h1>HI THERE 👋 </h1>
 <br>
 <p align="center">   
 <img src="https://github.com/aakriti1318/aakriti1318/blob/main/Aakriti%20Aggarwal-logos.jpeg" alt="AKKU" width="400" height="300">
 </p>
-<br>
 <h4>Here we go...:</h4>
 
 - 📫 Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/">Visit Here</a>

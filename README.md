@@ -1,7 +1,7 @@
 # HI THERE 👋
 <br>
 <p align="center">   
-<img src="https://github.com/aakriti1318/aakriti1318/blob/main/Aakriti%20Aggarwal-logos_transparent.png" alt="AKKU" width="400" height="300">
+<img src="https://github.com/aakriti1318/aakriti1318/blob/main/Aakriti%20Aggarwal-logos.jpeg" alt="AKKU" width="400" height="300">
 </p>
 <br>
 <h4>Here we go...:</h4>

@@ -5,7 +5,7 @@
 </p>
 <h4>Here we go...:</h4>
 
-- 📫 Want to know me!? <a href="https://onvws3rx5ks30mz4ndolpq-on.drv.tw/www.Portfolio.com/">Visit Here</a>
+- 📫 Want to know me!? <a href="https://aakritiaggarwal.weebly.com/">Visit Here</a>
 - 🔭 I’m Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
 - 🔭 Have a look on my Research Paper: <a href="https://github.com/aakriti1318/isSwap">here</a>;
 - 🔭 <a href="https://gssoc.girlscript.tech/">GSSOC'21</a>  Open Source Contributor; 

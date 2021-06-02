@@ -16,4 +16,5 @@
 - ⚡ My interests are with Cpp 🖥️, Data Science 📊, and Space 🚀;
 - 💬 Highly interested in forming a group for Hackathons, Competitions 😊;
 
-![](https://komarev.com/ghpvc/?username=aakriti1318&style=plastic)
+
+![Aakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakriti1318)

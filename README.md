@@ -6,7 +6,8 @@
 <h4>Here we go...:</h4>
 
 - 📫 Want to know me!? <a href="https://aakritiaggarwal.weebly.com/">Visit Here</a>
-- 🔭 I’m Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
+- 🔭 I’m Summer Intern at <a href ="https://vasitum.com/"> Vasitum (Maven Workforce) </a>;
+- 🔭 Ex Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
 - 🔭 Have a look on my Research Paper: <a href="https://github.com/aakriti1318/isSwap">here</a>;
 - 🔭 <a href="https://gssoc.girlscript.tech/">GSSOC'21</a>  Open Source Contributor; 
 - 🌱 I’m currently pursuing my pre final year of Bachelor's degree in Computer Science Engineering at JIIT;

@@ -1,9 +1,9 @@
 <h1>HI THERE 👋 </h1>
 <br>
-<p align="center">   
+<!-- <p align="center">   
 <img src="https://github.com/aakriti1318/aakriti1318/blob/main/Aakriti%20Aggarwal-logos.jpeg" alt="AKKU" width="400" height="300">
 </p>
-<h4>Here we go...:</h4>
+<h4>Here we go...:</h4> -->
 
 - 📫 Want to know me!? <a href="https://aakritiaggarwal.weebly.com/">Visit Here</a>
 - 🔭 I’m Summer Intern at <a href ="https://vasitum.com/"> Vasitum (Maven Workforce) </a>;

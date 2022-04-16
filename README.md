@@ -1,5 +1,5 @@
 <p align="center">   
-<img src="https://github.com/aakriti1318/aakriti1318/blob/main/Screenshot%20(154).png" alt="AKKU" width="800" height="400">
+<img src="https://github.com/aakriti1318/aakriti1318/blob/main/Screenshot%20(154).png" alt="AKKU" width="800" height="300">
 </p>
 <h2>HERE WE GO:</h2>
 

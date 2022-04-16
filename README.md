@@ -3,10 +3,11 @@
 </p>
 <h2>HERE WE GO:</h2>
 
-- 🔭 <b>Incoming Intern @SAP Labs India. </b>
+- 🔭 <b>Intern @SAP Labs India. </b>
+- 💬 Check my blogs on <a href = "https://aakritiaggarwal13.medium.com/"> Medium</a>;
 - 🌱 I’m currently a student pursuing myBachelor of Technology in Computer Science Engineering at JIIT, Noida;
 - 🔭 Former Summer Intern at <a href ="https://vasitum.com/"> Vasitum (Maven Workforce) </a> and Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
-- 🔭 Have a look on my Research Paper: <a href="https://drive.google.com/file/d/1ujWqLcOxYJ7f4JOvKizwkI6HXbpMBBu1/view?usp=sharing">here</a>, Soon to be published on IEEE😅;
+- 🔭 Have a look on my Research Paper: <a href="https://ieeexplore.ieee.org/document/9673225">here</a>, Published on IEEE😅 and presented on 2021 7th International Conference on Signal Processing and Communication (ICSC);
 - 💬 Always available to learn new stuff;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aakritiaggarwal13/">LinkedIn</a>;
 - 😄 ✨Soul on fleek!✨;

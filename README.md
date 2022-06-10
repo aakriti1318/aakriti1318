@@ -8,6 +8,7 @@
 - 🌱 I’m currently a student pursuing myBachelor of Technology in Computer Science Engineering at JIIT, Noida;
 - 🔭 Former Summer Intern at <a href ="https://vasitum.com/"> Vasitum (Maven Workforce) </a> and Machine Learning Intern at <a href ="https://www.medtoureasy.com/">MedTourEasy</a>;
 - 🔭 Have a look on my Research Paper: <a href="https://ieeexplore.ieee.org/document/9673225">here</a>, Published on IEEE😅 and presented on 2021 7th International Conference on Signal Processing and Communication (ICSC);
+- 🔭 Google Scholar Profile - <a href="https://scholar.google.com/citations?user=x8EF9ywAAAAJ&hl=en">Check Here</a>
 - 💬 Always available to learn new stuff;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aakritiaggarwal13/">LinkedIn</a>;
 - 😄 ✨Soul on fleek!✨;

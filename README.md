@@ -17,12 +17,12 @@
 
 <h3>Summary</h3>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakriti1318&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakriti1318&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakriti1318&theme=monokai)]
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakriti1318&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakriti1318&theme=monokai)]
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakriti1318&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakriti1318&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakriti1318&theme=vue)]
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakriti1318&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakriti1318&theme=vue)]
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Structures-blue"> <img src="https://img.shields.io/badge/Web Dev-brown"> 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakriti1318&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakriti1318&theme=vue&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)

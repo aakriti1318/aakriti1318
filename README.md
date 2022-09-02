@@ -3,6 +3,7 @@
 </p>
 <h2>HERE WE GO:</h2>
 
+- 🔭 <b>Developer Associate @SAP Labs India. </b>
 - 🔭 <b>Intern @SAP Labs India. </b>
 - 💬 Check my blogs on <a href = "https://aakritiaggarwal13.medium.com/"> Medium</a>;
 - 🌱 I’m currently a student pursuing myBachelor of Technology in Computer Science Engineering at JIIT, Noida;

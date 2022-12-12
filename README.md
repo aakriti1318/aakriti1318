@@ -41,13 +41,11 @@ I'm a Developer at SAP Labs and a budding writer at <a href="https://aakritiagga
 
 
 
-
-<!-- # -->
-<!-- 
+#
 ### Checkout My Medium Page
-![Aakriti's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=aakritiaggarwal13&theme=graywhite&limit=6)
+[![Aakriti Aggarwal Medium](https://github-readme-medium.vercel.app/?username=aakritiaggarwal13&limit=2)](https://medium.com/@aakritiaggarwal13)
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://medium.com/@aakritiaggarwal13) -->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://medium.com/@aakritiaggarwal13)
 
 
 <!-- <p align="center">   

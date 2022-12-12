@@ -1,9 +1,21 @@
 # 🐱‍💻 Heyy!
 **`(Developer/Writer/Doodler)`**
 
-I'm a Developer at SAP Labs and a budding writer at <a href="https://aakritiaggarwal13.medium.com/">Medium</a> XD. Being an amateur at lot of things gives me a kick to work more on, also a creative streak in me often reflected in drawings and dooling. Content writing and reading🔖 is a recent addition to the list of hobbies.
+I'm a Developer at SAP Labs and a budding writer at Medium XD. Being an amateur at lot of things gives me a kick to work more on, also a creative streak in me often reflected in drawings and dooling. Content writing and reading🔖 is a recent addition to the list of hobbies.
+💬 Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊
 
-💬 Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊;
+#
+
+<p>
+  <a href="https://medium.com/@aakritiaggarwal13/"><img width="300" align='right' src="https://github.com/aakriti1318/aakriti1318/blob/main/the%20begin.png"></a>
+</p>
+
+### My Digital Garden 🌱✍
+
+Apart from coding, I also (try to) write regular blog posts on <a href="https://medium.com/@aakritiaggarwal13">Medium</a>
+
+I write about things I am familiar with, things that trip up while reading books and things that I am learning. 
+Just a gist I write **fictional**, **non-fictional** and **interview experiences**. 
 
 ---
 ### 🧰 Languages and Tools
@@ -25,7 +37,6 @@ I'm a Developer at SAP Labs and a budding writer at <a href="https://aakritiagga
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 

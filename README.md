@@ -1,7 +1,7 @@
 # 🐱‍💻 Heyy!
 **`(Developer/Writer/Doodler)`**
 
-I'm a Developer at SAP Labs and a budding writer at Medium XD. Being an amateur at lot of things gives me a kick to work more on, also a creative streak in me often reflected in drawings and dooling. Content writing and reading🔖 is a recent addition to the list of hobbies.
+I'm a Developer at SAP Labs and a budding writer at Medium XD. Being an amateur at a lot of things kicks me to work more on, also a creative streak in me is often reflected in drawings and doodling. Content writing and reading🔖 is a recent addition to the list of hobbies. <br>
 💬 Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊
 
 #

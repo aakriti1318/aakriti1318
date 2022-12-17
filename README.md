@@ -48,5 +48,6 @@ Just a gist I write **fictional**, **non-fictional** and **interview experiences
   <a href="https://www.youtube.com/@aakritiaggarwal983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
     <a href="https://devpost.com/aakriti1318" target="blank"><img align="center" src="https://github.com/aakriti1318/aakriti1318/blob/main/devpost-icon.svg" height="30" width="40" /></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9673225" target="blank"><img align="center" src="https://github.com/aakriti1318/aakriti1318/blob/main/ieee-icon.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/aakriti1318" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   </p>
 

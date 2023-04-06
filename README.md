@@ -2,7 +2,7 @@
 **`(Developer/Writer/Doodler)`**
 
 I'm a Developer at SAP Labs and a budding writer at Medium XD. Being an amateur at a lot of things kicks me to work more on, also a creative streak in me is often reflected in drawings and doodling. Content writing and reading🔖 is a recent addition to the list of hobbies. <br>
-💬 Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊
+💬 **Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊**
 
 #
 
@@ -36,8 +36,6 @@ Just a gist I write **fictional**, **non-fictional** and **interview experiences
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 #

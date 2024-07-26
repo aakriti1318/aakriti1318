@@ -1,7 +1,7 @@
 # 🐱‍💻 Heyy!
-**`(Developer/Writer/Doodler)`**
+**`(AI Engineer/Developer/Writer/Doodler)`**
 
-I'm a Developer at SAP Labs and a budding writer at Medium XD. Being an amateur at a lot of things kicks me to work more on, also a creative streak in me is often reflected in drawings and doodling. Content writing and reading🔖 is a recent addition to the list of hobbies. <br>
+I'm a AI Engineer at IBM and a budding writer at Medium XD. Being an amateur at a lot of things kicks me to work more on, also a creative streak in me is often reflected in drawings and doodling. Content writing and reading🔖 is a recent addition to the list of hobbies. <br>
 💬 **Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊**
 
 #

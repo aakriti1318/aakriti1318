@@ -1,51 +1,101 @@
-# 🐱‍💻 Heyy!
-**`(AI Engineer/Developer/Writer/Doodler)`**
+# Hey there! I'm Aakriti 👋 
 
-I'm a AI Engineer at IBM and a budding writer at Medium XD. Being an amateur at a lot of things kicks me to work more on, also a creative streak in me is often reflected in drawings and doodling. Content writing and reading🔖 is a recent addition to the list of hobbies. <br>
-💬 **Highly interested in forming a group for Hackathons, Competitions, Research Paper 😊**
+*Building AI Solutions | Microsoft MVP | Always Innovating | Speaker | Blogger*
 
-#
+```python
+class AakritiAggarwal:
+    def __init__(self):
+        self.name = "Aakriti Aggarwal"
+        self.role = "AI Engineer @ IBM Watson"
+        self.mvp_status = "Microsoft MVP 2025-26"
+        self.location = "Bengaluru, India"
+        self.passion = ["GenAI", "LLMs", "RAG", "Innovation"]
+        
+    def current_mission(self):
+        return "Turning cutting-edge AI research into scalable, real-world solutions 🚀"
+        
+    def fun_fact(self):
+        return "I love turning complex AI challenges into elegant solutions! 🎯"
+```
 
-<p>
-  <a href="https://medium.com/@aakritiaggarwal13/"><img width="300" align='right' src="https://github.com/aakriti1318/aakriti1318/blob/main/the%20begin.png"></a>
-</p>
+## 🔥 What I'm Building
 
-### My Digital Garden 🌱✍
+I thrive at the intersection of **AI, innovation, and collaboration**—creating solutions that actually make a difference. Currently at **IBM Watson**, I'm working on:
 
-Apart from coding, I also (try to) write regular blog posts on <a href="https://medium.com/@aakritiaggarwal13">Medium</a>
+- 🤖 **Generative AI Solutions**: RAG, fine-tuning, prompt engineering, and multimodal magic
+- 🏗️ **AI Orchestration**: Building systems that just *work* at scale
+- 📈 **Enterprise Solutions**: Delivering high-impact AI implementations for diverse clients
+- 🚀 **Performance Optimization**: Making applications blazingly fast and efficient
 
-I write about things I am familiar with, things that trip up while reading books and things that I am learning. 
-Just a gist I write **fictional**, **non-fictional** and **interview experiences**. 
+### 🎉 Latest Launch: [Multi-Agent Generator](https://pypi.org/project/multi-agent-generator/)
+
+Just dropped my **Python library** that's making multi-agent systems accessible to everyone!
+
+```bash
+pip install multi-agent-generator
+```
+
+**The Problem:** Building multi-agent systems used to mean framework complexity, repetitive coding, and provider lock-in.
+
+**The Solution:** Just describe your idea in plain English → get production-ready code! 
+
+✨ **Key Features:**
+- **Framework Flexibility**: Works with CrewAI (+ flows), LangChain, LangGraph, and ReAct
+- **Provider Choice**: Switch between OpenAI GPT and IBM WatsonX with a click
+- **Zero Coding**: Describe your need, the library handles the rest!
+
+🚀 **1000+ downloads in the first month** - the community is loving it!
+
+## 🏆 Plot Twists & Achievements
+
+- 🎯 **Microsoft MVP 2025-26** - Because sharing knowledge is caring
+- 📈 **IBM Growth Award Q3 2024** - Culture Catalyst extraordinaire
+- 🏅 **SAP Expert Speaker** - Made AI less scary for humans
+- 🥇 **Several Hackathon Winner** - Built cool stuff under pressure
+- 📚 **IEEE Published Researcher** - DeepFake detection with 400+ videos analyzed
+
+## 📝 When I'm Not Coding...
+
+I'm probably **writing** or **speaking**! Here's how I share knowledge:
+
+### 🎤 Speaking & Community Impact
+- 🏢 **Corporate Tech Events**: Speaker at Microsoft, IBM, and SAP.
+- 🎓 **Universities**: Regular speaker at IIIT Delhi and other prestigious institutions  
+- 🚀 **Startup Ecosystem**: Featured speaker at startup launches and tech events
+- 🎙️ **Media**: Podcasts, webinars, and technical seminars
+- 👥 **Mentoring**: Guiding both college students and experienced professionals in their AI journey
+
+### ✍️ Content Creation
+- 📖 **[AI'nt That Easy Blog Series](https://medium.com/@aakriti-aggarwal)** - Making AI accessible, one post at a time
+- 💼 **LinkedIn Data Science Voice** - Sharing insights with the community
+- 🔥 **1000+ monthly blog views** on IBM Developer - Helping teams adopt WatsonX
+
+## 🎯 Fun Facts About My Code
+
+- Built robust **vector database solutions** handling large-scale data efficiently
+- Developed **automated testing solutions** that significantly reduced manual effort
+- Created **enterprise-grade AI implementations** across multiple domains
+- Designed a **DeepFake detection system** analyzing 400+ videos
+
+## 🤝 Let's Connect!
+
+I love geeking out about:
+- 🧠 LLMs and their quirky personalities
+- 🏗️ RAG architectures that actually work
+- 🚀 AI orchestration and agents
+- 💡 Cool tech ideas and startup dreams
+
+**DMs are open!** Let's chat about AI, share knowledge, or just discuss why Large Language Models sometimes act like dramatic theater performers.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal)
 
 ---
-### 🧰 Languages and Tools
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<br />
+```python
+if you_found_this_interesting():
+    lets_collaborate()
+    # Because the best AI solutions are built together! 🤖✨
+```
 
-#
-<h3>👨‍💻 Find me around the Web </h3>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/aakritiaggarwal13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@aakritiaggarwal13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@aakritiaggarwal983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-    <a href="https://devpost.com/aakriti1318" target="blank"><img align="center" src="https://github.com/aakriti1318/aakriti1318/blob/main/devpost-icon.svg" height="30" width="40" /></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9673225" target="blank"><img align="center" src="https://github.com/aakriti1318/aakriti1318/blob/main/ieee-icon.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/aakriti1318" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  </p>
-
+*"Making AI more practical, impactful, and slightly less mysterious, one commit at a time."*

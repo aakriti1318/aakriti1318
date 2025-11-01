@@ -1,5 +1,7 @@
 # Hey there! I'm Aakriti 👋 
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/multi-agent-generator)
+
 *Building AI Solutions | Microsoft MVP | Always Innovating | Speaker | Blogger*
 
 ```python

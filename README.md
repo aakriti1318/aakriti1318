@@ -38,9 +38,9 @@ I actively contribute to the community and drive thought leadership in secured G
 
 ### 🌱 Building what's next in AI Agents, RAG, and Secure LLM Infrastructure?
 
-_I'd love to chat, collaborate, or offer technical consultation.
+I'd love to chat, collaborate, or offer technical consultation.
 Always open to joining as a **co-founder** for ideas focused on LLM security, governance layers, or safe multi-agent orchestration. 
-**Let's Connect!** _
+**Let's Connect!** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal)

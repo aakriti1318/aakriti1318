@@ -1,7 +1,5 @@
 # Hey there! I'm Aakriti 👋 
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/multi-agent-generator)
-
 *Building AI Solutions | Microsoft MVP | Always Innovating | Speaker | Blogger*
 
 ```python
@@ -30,6 +28,7 @@ I thrive at the intersection of **AI, innovation, and collaboration**—creating
 - 🚀 **Performance Optimization**: Making applications blazingly fast and efficient
 
 ### 🎉 Latest Launch: [Multi-Agent Generator](https://pypi.org/project/multi-agent-generator/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/multi-agent-generator)
 
 Just dropped my **Python library** that's making multi-agent systems accessible to everyone!
 

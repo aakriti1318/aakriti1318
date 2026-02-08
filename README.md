@@ -1,45 +1,48 @@
-**Heyy! I'm Aakriti 🚀**  
-Senior AI Research Engineer @ IBM Research (Granite squad) | Microsoft MVP (AI) | AI Security Nerd | Speaker | Blogger  
+# Heyy! I'm Aakriti 🚀  
 
-**Creater** of [multi-agent-generator](https://pypi.org/project/multi-agent-generator/) – turns your English ramble into a full multi-agent crew 🔥  
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/multi-agent-generator) and ![GitHub Repo stars](https://img.shields.io/github/stars/aakriti1318/multi-agent-generator)
-```bash
-pip install multi-agent-generator
-```
-(And yes, people actually download it 😎)
+**AI Research Engineer @ IBM Research (Granite squad)**  
+**Microsoft MVP (AI)** | **AI Security Nerd** | **Speaker** | **Blogger**
 
-I build **super-scalable, bullet-proof GenAI** stuff especially the secure, won't-get-hacked kind.
+I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — and occasionally ship things people actually use 😎  
 
-🛡️ **Defense-mode ON**  
-- Slapped a Policy Decision Point in the AI proxy → governance & security on steroids  
-- Block prompt-injection like a boss  
-- Cooking an IAM system for agent swarms with RBAC-style tool locks + PDP/PEP magic  
+## Open Source — Creator
 
-⚡ **Speed demon vibes**  
-- Slashed document pipeline latency **90%** (3000s → 290s) with async wizardry  
-- RAG tuning master: smart truncation + dynamic context windows  
+| Project | Description | Install / Link | Stats | Role |
+|-------|-------------|----------------|-------|-------|
+| **multi-agent-generator** | Turns your English ramble into a full multi-agent crew 🔥 | [`pip install multi-agent-generator`](https://pypi.org/project/multi-agent-generator/) | ![Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads) ![Stars](https://img.shields.io/github/stars/aakriti1318/multi-agent-generator) | Creator |
+| **Codemeter** | Track AI-generated code & estimate its cost | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=BhavishyaPandit9.codemeter) | ![Stars](https://img.shields.io/github/stars/bhav09/codemeter) | Contributor |
 
-Big wins: shipped enterprise RAG / multimodal / agent systems on watsonx → saved $$$ big time.
+> And yes, people actually download it 😌
 
-🥳 **Bragging shelf**  
-- **Microsoft MVP (AI)**  
-- 80+ Medium blogs making GenAI less scary  
-- IEEE/ICSC paper on DeepFake busting  
-- IBM Growth Award – Culture Catalyst 🏆  
-- SAP certified AI speaker  
-- 40+ talks (Microsoft, IBM, SAP, IIIT Delhi...)  
-- Multiple hackathon trophies  
+## Impact Highlights
 
-🌱 Currently geeking out on: **AI Agents • RAG • Secure LLM infra**
+- Shipped **enterprise-grade RAG, multimodal, and agent systems**
+- Delivered **real $$$ savings** at scale (not just demo ware)
+- Designed **secure & governed LLM pipelines** for production use
 
-❤️ **Support my open-source addiction**  
-Love my projects? Sponsor me to fuel more free tools & madness!  
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/aakriti1318)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aggarwalak)
+## Bragging Shelf
 
-Open to collabs, consultations, or co-founding something spicy around **LLM security / governance / safe agent orchestras**.
+- 🏅 **Microsoft MVP (AI)**
+- ✍️ **80+ Medium blogs** making GenAI less scary
+- 📄 **IEEE / ICSC paper** on [IsSwap? DeepFake Detection](https://www.researchgate.net/publication/357841513_IsSwap_Deep_Fake_Detection)
+- 🏆 **IBM Growth Award – Culture Catalyst**
+- 🎤 **SAP-certified AI speaker**
+- 🎙️ **40+ talks** (Microsoft, IBM, SAP, IIIT Delhi…)
+- 🏆 Multiple hackathon trophies
+- 
+## ❤️ Support My Open-Source Addiction
 
-Ping me - let's build cool (and safe) shit together!
+If my projects helped you, consider fueling more free tools & madness:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/aakriti1318)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aggarwalak)
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aakriti1318/multi-agent-generator,aakriti1318/interview_questions,aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)](https://www.star-history.com/#aakriti1318/multi-agent-generator&aakriti1318/interview_questions&aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)
+
+## 🤝 Let’s Build Something Spicy
+
+Open to **collabs, consulting** 
+Ping me — let’s build cool (and safe) shit together.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://bhavishyapandit9.substack.com/)

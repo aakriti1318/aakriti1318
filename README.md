@@ -5,7 +5,7 @@
 
 I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — and occasionally ship things people actually use 😎  
 
-## Open Source — Creator
+## Open Source 
 
 | Project | Description | Install / Link | Stats | Role |
 |-------|-------------|----------------|-------|-------|

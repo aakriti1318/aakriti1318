@@ -9,8 +9,9 @@ I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — 
 
 | Project | Description | Install / Link | Stats | Role |
 |-------|-------------|----------------|-------|-------|
-| **multi-agent-generator** | Turns your English ramble into a full multi-agent crew 🔥 | [`pip install multi-agent-generator`](https://pypi.org/project/multi-agent-generator/) | ![Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads) ![Stars](https://img.shields.io/github/stars/aakriti1318/multi-agent-generator) | Creator |
-| **Codemeter** | Track AI-generated code & estimate its cost | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=BhavishyaPandit9.codemeter) | ![Stars](https://img.shields.io/github/stars/bhav09/codemeter) | Contributor |
+| **multi-agent-generator** | Turns your English ramble into a full multi-agent crew | [`pip install multi-agent-generator`](https://pypi.org/project/multi-agent-generator/) | ![Downloads](https://static.pepy.tech/personalized-badge/multi-agent-generator?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads) ![Stars](https://img.shields.io/github/stars/aakriti1318/multi-agent-generator) | Creator |
+| **agentkube-mini** |A task DAG, dependency-aware parallel scheduler, and event system for multi-agent pipelines - all in about 400 lines | [`pip install multi-agent-generator`](https://pypi.org/project/multi-agent-generator/) | ![Downloads](https://img.shields.io/pypi/dm/agentkube-mini) ![Stars](https://img.shields.io/github/stars/aakriti1318/agentkube-mini) | Creator |
+| **Codemeter** | Track AI-generated code & estimate its cost | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=BhavishyaPandit9.codemeter) | ![Stars](https://img.shields.io/github/stars/bhav09/codemeter) ![Installs](https://img.shields.io/visual-studio-marketplace/i/BhavishyaPandit9.codemeter?cacheSeconds=86400) | Contributor |
 
 > And yes, people actually download it 😌
 
@@ -22,8 +23,8 @@ I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — 
 
 ## Bragging Shelf
 
-- 🏅 **Microsoft MVP (AI)**
-- ✍️ **80+ Medium blogs** making GenAI less scary
+- 🏅 **Microsoft [MVP](https://mvp.microsoft.com/en-US/MVP/profile/d81a6d08-99ee-4754-9991-e3d307965398) (AI)**
+- ✍️ **80+ blogs on AI Reliable System** making AI less scary
 - 📄 **IEEE / ICSC paper** on [IsSwap? DeepFake Detection](https://www.researchgate.net/publication/357841513_IsSwap_Deep_Fake_Detection)
 - 🏆 **IBM Growth Award – Culture Catalyst**
 - 🎤 **SAP-certified AI speaker**

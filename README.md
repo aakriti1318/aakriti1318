@@ -15,12 +15,6 @@ I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — 
 
 > And yes, people actually download it 😌
 
-## Impact Highlights
-
-- Shipped **enterprise-grade RAG, multimodal, and agent systems**
-- Delivered **real $$$ savings** at scale (not just demo ware)
-- Designed **secure & governed LLM pipelines** for production use
-
 ## Bragging Shelf
 
 - 🏅 **Microsoft [MVP](https://mvp.microsoft.com/en-US/MVP/profile/d81a6d08-99ee-4754-9991-e3d307965398) (AI)**
@@ -30,7 +24,7 @@ I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — 
 - 🎤 **SAP-certified AI speaker**
 - 🎙️ **40+ talks** (Microsoft, IBM, SAP, IIIT Delhi…)
 - 🏆 Multiple hackathon trophies
-- 
+  
 ## ❤️ Support My Open-Source Addiction
 
 If my projects helped you, consider fueling more free tools & madness:

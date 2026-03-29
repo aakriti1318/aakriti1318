@@ -24,7 +24,14 @@ I build, break, and secure AI systems — mostly agents, RAG, and LLM infra — 
 - 🎤 **SAP-certified AI speaker**
 - 🎙️ **40+ talks** (Microsoft, IBM, SAP, IIIT Delhi…)
 - 🏆 Multiple hackathon trophies
-  
+
+## 🤝 Let’s Build Something Spicy
+
+Open to **collabs, consulting** 
+Ping me — let’s build cool (and safe) shit together.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://aakritiaggarwal.substack.com/)
+
 ## ❤️ Support My Open-Source Addiction
 
 If my projects helped you, consider fueling more free tools & madness:
@@ -35,9 +42,3 @@ If my projects helped you, consider fueling more free tools & madness:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aakriti1318/multi-agent-generator,aakriti1318/interview_questions,aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)](https://www.star-history.com/#aakriti1318/multi-agent-generator&aakriti1318/interview_questions&aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)
 
-## 🤝 Let’s Build Something Spicy
-
-Open to **collabs, consulting** 
-Ping me — let’s build cool (and safe) shit together.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakritiaggarwal13)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aakriti-aggarwal) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://bhavishyapandit9.substack.com/)

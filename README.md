@@ -39,7 +39,4 @@ If my projects helped you, consider fueling more free tools & madness:
 
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/aakriti1318)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aggarwalak)
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aakriti1318/multi-agent-generator,aakriti1318/interview_questions,aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)](https://www.star-history.com/#aakriti1318/multi-agent-generator&aakriti1318/interview_questions&aakriti1318/Crew-Agent-Generator&type=date&legend=top-left)
 
